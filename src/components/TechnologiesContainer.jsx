@@ -4,7 +4,8 @@ import {
     DiJsBadge,
     DiNodejsSmall,
     DiMysql,
-    DiReact
+    DiReact,
+    DiMongodb
 } from 'react-icons/di'
 
 import '../styles/components/technologiescontainer.sass'
@@ -16,6 +17,7 @@ const technologies =[
     { id: "node",name: "Node.js", icon: <DiNodejsSmall />},
     { id: "mysql",name: "MySQL", icon: <DiMysql />},
     { id: "react",name: "React", icon: <DiReact />},
+    { id: "mongo",name: "Mongo", icon: <DiMongodb />},
 ];
 
 const TechnologiesContainer = () => {
