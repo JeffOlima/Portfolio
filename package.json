@@ -1,12 +1,12 @@
 {
-  "homepage": "https://jeffolima.github.io/Portfolio",
+  "homepage": "https://JeffOlima.github.io/Portfolio",
   "name": "portfolio",
   "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build":"react-script build",
+    "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "preview": "vite preview"
