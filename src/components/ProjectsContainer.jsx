@@ -10,7 +10,9 @@ const ProjectsContainer = () => {
              id minus aspernatur porro
              </p>
              <a href="#" className="btn">
-                See projects
+             <a href="jeffolima.github.io/robofriends/"> Robofriends</a>
+             <a href="https://github.com/JeffOlima/GET_A_PET"> Geta a pet</a>
+             <a href="https://github.com/JeffOlima/11_THOUGHTS"> Thoughts</a>
              </a>
         </sextion>
     )
