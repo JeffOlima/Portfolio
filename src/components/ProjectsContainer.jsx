@@ -9,11 +9,9 @@ const ProjectsContainer = () => {
              ea quam rem facere aliquid incidunt autem est eligendi accusamus, 
              id minus aspernatur porro
              </p>
-             <a href="#" className="btn">
-             <a href="jeffolima.github.io/robofriends/"> Robofriends</a>
-             <a href="https://github.com/JeffOlima/GET_A_PET"> Geta a pet</a>
-             <a href="https://github.com/JeffOlima/11_THOUGHTS"> Thoughts</a>
-             </a>
+             <a className="btn" href="https://jeffolima.github.io/robofriends/"> Robofriends</a>
+             <a className="btn" href="https://github.com/JeffOlima/GET_A_PET"> Geta a pet</a>
+             <a className="btn" href="https://github.com/JeffOlima/11_THOUGHTS"> Thoughts</a>
         </sextion>
     )
 }
