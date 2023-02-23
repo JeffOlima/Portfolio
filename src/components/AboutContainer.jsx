@@ -2,17 +2,11 @@ const AboutContainer = () => {
     return ( 
     <section className="about-container">
         <h2>About</h2>
-        <p>meu nome é Jefferson de Oliveira Lima, 
-        sou estudante de Ciência da Computação CCT College, na Irlanda.
-             </p>
-             <p>Durante meus estudos, adquiri alguns conhecimentos na programação web, incluindo Javascript, HTML, CSS, Node.js e MySQL. 
-                Também tenho conhecimentos em aplicações web, frameworks, bibliotecas e ferramentas de desenvolvimento. 
-                Por meio de projetos acadêmicos, aprendi a usar métodos ágeis para criar soluções web de qualidade. 
-                Além de minhas habilidades técnicas, tenho uma forte motivação para aprender novas tecnologias. 
-                Estou ansioso para aplicar meus conhecimentos em um ambiente profissional e crescer como desenvolvedor web. 
-                Estou aberto a trabalhar de forma não remunerada e acredito que o meu trabalho pode ser de grande benefício para o seu negócio.
-                Gostaria muito de obter a oportunidade de entrevistar com você para discutir a vaga e como posso contribuir para o seu projeto. 
-
+             <p>    My name is Jefferson de Oliveira Lima, I am a student of Computer Science CCT College in Ireland.During my studies, 
+                I acquired some knowledge in web programming, including Javascript, HTML, CSS, Node.js and MySQL. I have a strong motivation to learn new technologies. 
+                I am eager to apply my knowledge in a professional environment and grow as a web developer. 
+                I am open to unpaid internships and believe my work can be of great benefit to your business.
+                I would greatly appreciate the opportunity for an interview with you to discuss the position and how I can contribute to your project.
              </p>
     </section>
     );
