@@ -1,3 +1,5 @@
+import '../styles/components/technologiescontainer.sass'
+
 import {
     DiHtml5,
     DiCss3,
@@ -7,8 +9,6 @@ import {
     DiReact,
     DiMongodb
 } from 'react-icons/di'
-
-import '../styles/components/technologiescontainer.sass'
 
 const technologies =[
     { id: "html",name: "HTML5", icon: <DiHtml5 />},

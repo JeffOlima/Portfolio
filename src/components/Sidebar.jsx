@@ -1,7 +1,7 @@
 import SocialNetworks from "./SocialNetworks";
 import InformationContainer from "./InformationContainer";
 
-import Avatar from "../img/eu2.jpeg";
+import Avatar from "../img/eu4.jpeg";
 
 import "../styles/components/sidebar.sass";
 
